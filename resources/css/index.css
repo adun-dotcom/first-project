@@ -1,0 +1,36 @@
+body {
+    font-family: Helvetica;
+    text-align: left;
+}
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+header {
+    background-image: url("../website img1.jpeg");
+    opacity: 0.5;
+}
+#hacksaw-brush {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+#art-frame {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+#clean-paint {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+span {
+    font-weight: bold;
+    color: blue;
+}
